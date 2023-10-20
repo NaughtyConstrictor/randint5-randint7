@@ -1,0 +1,2 @@
+# How to create `rand7()` using `rand5()`
+Trying to create a function `rand7()` which returns a random uniform distribution for integers in the range [1-7] inclusive using the `rand5()` function which returns a random unifrom distribution for integers in the range [1-5]
